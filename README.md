@@ -2,6 +2,7 @@ Donations are welcomed :) Happy Mining
 
 
 BTC - bc1qy0zcjq6kz5j8x0ygeuj6yq2ppku0a2fdydr6n9
+
 LTC - ltc1q8d5nymumlzk4v0eslya0gkex7rs8e5ju9uukvt
 
 
