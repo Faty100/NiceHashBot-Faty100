@@ -1,4 +1,4 @@
-Donations are welcomed :) Happy Mining
+Donations are welcomed :) Happy Mining - If you have any ideas you want to add let me know ill try to remain active and do my best. Post your ideas here. Also my email is fatty_100@outlook.com
 
 
 BTC - bc1qy0zcjq6kz5j8x0ygeuj6yq2ppku0a2fdydr6n9
