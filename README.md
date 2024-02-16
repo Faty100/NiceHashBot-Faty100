@@ -10,6 +10,10 @@ NHB3 bot for automatic order management.
 
 # <a name="features"></a> Features
 
+- Added a new option to Auto start the bot when opening the applicat (I did this because sometimes nicehash bot will crash)
+- Added a new program you can download from me called Software Monitor that will check to see if nicehash is running and if its not will load it for you and with Autostart enabled in NHB it will automatically start without you doing anything
+- Added a timer edit interval (Right now nicehash has it setup so its every 1 min for the bot to run but with this now you can set it to anytime you want)
+- Added a countdown display clock just for visual use
 - Run on **test** and **production** environment (instructions on how to obtain API keys https://github.com/nicehash/rest-clients-demo/blob/master/README.md)
 - Manage pools (create/edit/delete)
 - Manage orders (create/refill/edit/delete)
