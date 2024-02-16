@@ -1,9 +1,14 @@
-Donations are welcomed :) Happy Mining - If you have any ideas you want to add let me know ill try to remain active and do my best. Post your ideas here. Also my email is fatty_100@outlook.com
+Donations are welcomed :) Happy Mining - If you have any ideas you want to add let me know ill try to remain active and do my best. Post your ideas here in github. Also my email is fatty_100@outlook.com
 
 
 BTC - bc1qy0zcjq6kz5j8x0ygeuj6yq2ppku0a2fdydr6n9
 
 LTC - ltc1q8d5nymumlzk4v0eslya0gkex7rs8e5ju9uukvt
+
+New Features I am working on
+
+- Adding max price limit for each contract
+- Adding speed changes based on network difficulty. For example if you are not watching it and network difficuly sky rockets and your using max speed       your chances of getting a block are pretty much none and you contract ends and you get nothing. When the network difficuly changes to a certain number    that you edit your speed will change to the lowest number that you edit as well. Or vice versa either way the goal is to ensure you have control over     what happens to the contract 
 
 
 # NiceHashBot - New Features below please read
