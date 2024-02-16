@@ -1,9 +1,8 @@
-Donations are welcomed :) Happy Mining
-
 If you have any ideas you want to add let me know ill try to remain active and do my best. Post your ideas here in github. Also my email is fatty_100@outlook.com
 
 I provided the .zip file in the release section both programs are available there. They will be updated once I release the new versions as well.
 
+Donations are welcomed :) Happy Mining
 
 BTC - bc1qy0zcjq6kz5j8x0ygeuj6yq2ppku0a2fdydr6n9
 
