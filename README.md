@@ -8,7 +8,7 @@ LTC - ltc1q8d5nymumlzk4v0eslya0gkex7rs8e5ju9uukvt
 New Features I am working on
 
 - Adding max price limit for each contract
-- Adding speed changes based on network difficulty. For example if you are not watching it and network difficuly sky rockets and your using max speed       your chances of getting a block are pretty much none and you contract ends and you get nothing. When the network difficuly changes to a certain number    that you edit your speed will change to the lowest number that you edit as well. Or vice versa either way the goal is to ensure you have control over     what happens to the contract 
+- Adding speed changes based on network difficulty. For example if you are not watching it and network difficuly sky rockets and your using max speed       your chances of getting a block are pretty much none and your contract ends and you get nothing. When the network difficuly changes to a certain number    that you edit your speed will change to the lowest number that you edit as well. Or vice versa either way the goal is to ensure you have control over     what happens to the contract based on network difficulty.
 
 
 # NiceHashBot - New Features below please read
