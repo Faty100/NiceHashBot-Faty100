@@ -31,6 +31,7 @@ New Nicehash bot features
 - Added a new program you can download from me called Software Monitor that will check to see if nicehash is running and if its not will load it for you and with Autostart enabled in NHB it will automatically start without you doing anything
 - Added a timer edit interval (Right now nicehash has it setup so its every 1 min for the bot to run but with this now you can set it to anytime you want)
 - Added a countdown display clock just for visual use
+- Added MaxPrice Limit
 
 
    Old Features
