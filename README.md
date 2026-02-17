@@ -4,9 +4,7 @@ I provided the .zip file in the release section both programs are available ther
 
 Donations are welcomed :) Happy Mining
 
-BTC - bc1qv7u3dlej7gwhd49qjn7kjcwe0pjywa8na09jrd
-
-LTC - ltc1qremwyhdrgqd4ulvps79xtuurk3s2a202ukt4y9
+BTC - bc1q09fauqa48utq3wkdyrpvyp223cev558hsppt9c
 
 New Features I am working on
 
